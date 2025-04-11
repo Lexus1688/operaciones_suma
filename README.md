@@ -2,9 +2,10 @@
 
 Este script en Python permite sumar dos números, ya sean enteros (`int`) o flotantes (`float`). Antes de realizar la operación, valida que ambos operandos sean numéricos. En caso contrario, muestra un mensaje de error indicando que la entrada no es válida.
 
-## Desarrolador
-| Apellidos y Nombres |
-| Cueva Ricse Alex |
+## Desarrollador
+| Apellidos y Nombres | Rol           | GitHub                         |
+|---------------------|----------------|--------------------------------|
+| Cueva Ricse Alex    | Desarrollador | [@Lexus1688](https://github.com/Lexus1688) |
 
 ## Requisitos previos
 
